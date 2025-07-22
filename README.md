@@ -41,6 +41,8 @@
 
 ### Решение 2. 
 
+![Решение 2](https://github.com/noisy441/Redis-memcached/blob/main/img/img1.png)
+
 ---
 
 ### Задание 3. Удаление по TTL в Memcached
@@ -52,6 +54,9 @@
 ---
 
 ### Решение 3. 
+
+![Решение 3](https://github.com/noisy441/Redis-memcached/blob/main/img/img2.png)
+
 
 ---
 
@@ -65,6 +70,8 @@
 
 ### Решение 4. 
 
+![Решение 4](https://github.com/noisy441/Redis-memcached/blob/main/img/img3.png)
+
 ---
 
 ## Дополнительные задания (со звёздочкой*)
@@ -77,5 +84,7 @@
 *Приведите скриншот, где будут проделаны все операции и будет видно, что значение key5 стало равно 10.*
 
 ### Решение 5. 
+
+![Решение 5](https://github.com/noisy441/Redis-memcached/blob/main/img/img4.png)
 
 ---
